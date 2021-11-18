@@ -1,0 +1,3 @@
+[submodule "TestSubmod"]
+	path = TestSubmod
+	url = git@github.com:IneshinArt/SubmoduleRepository_Ineshin.git
